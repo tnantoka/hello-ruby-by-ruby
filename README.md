@@ -4,5 +4,9 @@
 
 ```
 $ bundle
+
 $ bundle exec ruby interp.rb test.rb
+
+# Bootstrap
+$ bundle exec ruby interp.rb interp.rb test.rb
 ```
